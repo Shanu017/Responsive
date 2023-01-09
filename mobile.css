@@ -1,0 +1,128 @@
+@media(max-width:600px) {
+
+    /* header area */
+    header{
+        width: 100%;
+        color:white;
+        padding: 10px;
+    }
+    .menu-part h2{font-size: 25px;
+        line-height: 25px;
+    }
+    .hero-part button{padding: 8px 10px;
+        background-color:#eb7e4b69 ;
+        border-radius: 5px;  
+        cursor: pointer;   
+      }
+      .menu-part ul {
+        float: right;
+        text-align: end;
+        margin-top: -40px;
+        margin-right: 20px;
+    }
+    .menu-part li{
+        padding: 2px 2px;
+        margin: 0px px;
+      
+    }
+    .menu-part li a{color: white;
+        text-decoration: none;
+        font-size: 10px;
+        padding: 10px 5px;
+        font-weight: 600;
+}
+.container-row img{width: 90px;
+}
+
+/* Service area */
+.writting-part{text-align: center;
+
+    }
+    .writting-part h2{font-size: 25px;
+       
+    }
+.writting-part p{font-size:15px ;}
+.box{float:left;
+    width: 23%;
+    padding-bottom: 50px;
+    font-size: 15px; 
+    padding-left: 20px;
+    }
+    .box img{width: 50px;}    
+    .box h2{font-size: 20px;}
+    .box p{font-size: 5px;}
+
+    /* Portfolio part */ 
+    .protfolio-part h2{font-size: 20px;}
+    .protfolio-part p{font-size: 15px;
+                    line-height: 20px;
+    }
+    .box h2{font-size: 18px;}
+    .team-icon i{width: 40px;
+        background-color: #fff;
+        margin: 0 2px;
+        padding: 5px;
+        border-radius: 50%;
+        font-size: 20px;}
+
+        /* Skill part */
+        .skill-part h2{font-size: 20px;}
+
+        /* portfolio part */
+        .our-portfolio-part h2{font-size: 20px;}
+        .our-portfolio-part p{font-size: 15px;}
+        .button-part{width: 100%;display: inline-block;
+        }
+        .button-part button{
+           padding: 2px;
+           margin:10px;
+          margin-bottom: 20px;
+          }
+          #lap{width:48% ;
+            text-align: center;
+            display: block;
+           
+        }
+        .our-portfolio-part img{width: 180px;}
+        .our-portfolio-part button{font-size: 10px;
+                                    width: 150px;
+                                    padding: 15px;
+                                    border-radius: 5px;
+                                    font-weight: 500;
+        }
+         /* About Part */
+         .about-part h2{font-size: 20px;
+                        margin-bottom: 10px;
+        }
+     .about-box-text p{font-size: 15px;}
+
+     /* Get In Touch */
+     .message-part , .message-container{}
+     .message-part h2{font-size: 25px;}
+     .message-part p{font-size: 15px;}
+
+     .message-part, .second-area input{width: 36%;
+                                        margin: auto;
+                                        margin-left: 
+                                       
+    }
+    .message-part form{display: block;
+    margin: auto;}
+    .message-container input {margin-left: 19px;
+                            margin-top: 15px;
+                            margin-bottom: 20px;
+                            width: 197px;
+    }
+    .message-container textarea{margin: auto;
+                                    margin-left: 46px;
+    }
+    .message-container, .second-part, #btn input{margin: auto;
+        display: block;margin-top: 25px;
+        margin-bottom: 25px;                                          
+    }
+
+    /* Footer Part */
+    footer{display: ;}
+    footer ul{text-align: center;}
+    footer li{width: 90px;}
+  }
